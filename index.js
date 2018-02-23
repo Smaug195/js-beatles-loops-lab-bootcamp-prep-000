@@ -10,6 +10,7 @@ function johnLennonFacts(facts){
   var i=0;
   while(i<facts.length){
     tmpArr.push(facts[i]+"!!!")
+    i++
   }
   return tmpArr
 }
