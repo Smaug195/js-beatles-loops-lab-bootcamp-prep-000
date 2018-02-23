@@ -5,3 +5,4 @@ function theBeatlesPlay(mus,ins){
   }
   return tmpArr
 }
+fun
